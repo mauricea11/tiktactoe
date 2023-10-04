@@ -28,7 +28,6 @@ h1 {
 .cell:active {
 	outline: none;
 }
-/* 3*3 Grid */
 #b1{
 	border-bottom: 1px solid gray;
 	border-right: 1px solid gray;
@@ -76,7 +75,6 @@ h1 {
 	border-top: 1px solid gray;
 	border-left: 1px solid gray;
 }
-/* Reset Button */
 #but {
 	box-sizing: border-box;
     width: 148px;
@@ -90,7 +88,6 @@ h1 {
     cursor: pointer;
 }
 
-/* Player turn space */
 #print {
 	font-family: Verdana,
 		Geneva, Tahoma, sans-serif;
@@ -98,7 +95,6 @@ h1 {
 	font-size: 20px;
 }
 
-/* Main Container */
 #main {
     display: flex;
     flex-direction: column;
@@ -107,7 +103,6 @@ h1 {
     height: 750px;
 }
 
-/* Game Instruction Text */
 #ins {
 	font-family: Verdana,Geneva,
 					Tahoma, sans-serif;
